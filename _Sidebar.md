@@ -8,8 +8,8 @@
 - [[Macros]]
 
 ### Resources
-- [Online IDE](https://wy-lang.org/ide)
-- [Snippet Site](https://wenyan-snippets.glitch.me/)
+- [[Online IDE]]
+- [[Snippet Site]]
 - [[Text Editors Support]]
 - [[Rendering]]
 - [[Related Tools]]
