@@ -26,7 +26,9 @@ Open an issue and share your work. We would love to add it to our wiki page!
 
 ### Contribute to Code
 
-> WIP
+You can check out [Development Setup](#development-setup) and [Project Structure](#project-structure) to get familiar with the project.
+
+Before you make changes to code, it's always better to open an issue first and get some discussion.
 
 ### Contribute to Documentation
 
@@ -34,7 +36,7 @@ Open an issue and share your work. We would love to add it to our wiki page!
 
 ### Contribute to Online IDE
 
-> WIP
+The code of Online IDE is under the `static` folder. Check out [Project Structure](#project-structure) for more details.
 
 ### Contribute to Standard Library
 
@@ -100,8 +102,11 @@ There are some other scripts available in the scripts section of the `package.js
 - **`src`**: contains the source code. The codebase is written in [Typescript](https://www.typescriptlang.org/) with ES2015 syntax.
 
   - **`transpilers`**: contains code for the transpiling to different target languages.
+
   - **`parser.ts`**: contains code for the compiler core.
+
   - **`runtime.ts`**: contains code for [[Browser Runtime]].
+
   - **`cli.ts`**: contains code for [Command Line Interface](https://www.npmjs.com/package/@wenyanlang/cli).
 
 
