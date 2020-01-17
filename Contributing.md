@@ -21,7 +21,8 @@ To share your scripts, you can:
 ### Share Your Works Related to Wenyan
 
 Made a tool/work for wenyan? Cool!
-Open an issue and share your work. We will add it to our wiki pages.
+
+Open an issue and share your work. We would love to add it to our wiki page!
 
 ### Contribute to Code
 
