@@ -1,5 +1,3 @@
-## Feature Requests
-
 Before opening an Issue, please check if it belongs to the below categories:
 
 |Name|Priority|Help needed|Status|
@@ -23,11 +21,3 @@ Before opening an Issue, please check if it belongs to the below categories:
 |More examples | ** | √ |
 
 If you could help implement a feature with a `√` under `help needed`, please feel free to submit a pull request. It would be very much appreciated! If you would like to help out on other features, please let me know too! Thanks.
-
-## Known bugs
-
-|Name|Priority|Help needed|Status|
-|---|---|---|---|
-|[hanzi2num conversion error](https://github.com/LingDong-/wenyan-lang/issues/114)|  ***** | | Fixed |
-|[hanzi2num multi-character numbers not included](https://github.com/LingDong-/wenyan-lang/issues/130) |  *** | | Fixed |
-
