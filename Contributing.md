@@ -2,7 +2,7 @@ Thanks for being interested in contributing to this project! Here are some steps
 
 
 ## Ways to contribute
-- [Publish Your Wenyan Scripts](#share-your-wenyan-scripts)
+- [Share Your Wenyan Scripts](#share-your-wenyan-scripts)
 - [Share Your Works Related to Wenyan](#share-your-works-related-to-wenyan)
 - [Contribute to Code](#contribute-to-code)
 - [Contribute to Documentation](#contribute-to-documentation)
@@ -14,7 +14,7 @@ Thanks for being interested in contributing to this project! Here are some steps
 
 To share your scripts, you can:
 
-- Share your code snippets on the [Snippets Site](https://wenyan-snippets.glitch.me/)
+- Publish your code snippets on the [Snippets Site](https://wenyan-snippets.glitch.me/)
 - Add [examples](https://github.com/wenyan-lang/wenyan/tree/master/examples) to the main repo
 - Create and publish your own packages on [wyg](/guide/wyg)
 
@@ -40,7 +40,7 @@ To share your scripts, you can:
 
 ### Contribute to Testing
 
-Check out the [Testing Section](/contribute/test).
+Check out the [Testing Section](https://github.com/wenyan-lang/wenyan/wiki/Testing).
 
 ## Development Setup
 
@@ -74,6 +74,34 @@ $ npm test
 There are some other scripts available in the scripts section of the `package.json` file.
 
 **Please make sure to have this pass successfully before submitting a PR**. Although the same tests will be run against your PR on the CI server, it is better to have it working locally.
+
+## Project Structure
+
+- **`tools`**: contains build-related scripts and configuration files. Usually, you don't need to touch them.
+
+- **`dist`**: contains built files for distribution.
+
+- **`typings`**: contains type declarations for [Typescript](https://www.typescriptlang.org/). These declarations are generated alongside with building. Usually, you don't need to worry about them either.
+
+- **`test`**: contains all tests. The unit tests are written with [Jest](https://jestjs.io/). Refer to [this Section](https://github.com/wenyan-lang/wenyan/wiki/Testing) for more details.
+
+- **`static`**: contains files of the Online IDE and website.
+
+- **`examples`**: contains examples contributed by the community. They will also be bundled into the Online IDE.
+
+- **`site`**: the legacy website files. Using to redirect to the new one.
+
+- **`lib`**: contains the Standard Libraries. The subfolders are for language-specified codes.
+
+- **`documentation`**: the legacy documentation files. Please use wiki now.
+
+- **`src`**: contains the source code. The codebase is written in [Typescript](https://www.typescriptlang.org/) with ES2015 syntax.
+
+  - **`transpilers`**: contains code for the transpiling to different target languages.
+  - **`parser.ts`**: contains code for the compiler core.
+  - **`runtime.ts`**: contains code for [[Browser Runtime]].
+  - **`cli.ts`**: contains code for [Command Line Interface](https://www.npmjs.com/package/@wenyanlang/cli).
+
 
 ## Code Style
 
