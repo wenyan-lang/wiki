@@ -1,7 +1,5 @@
 <!-- GENERATED FILE, DO NOT MODIFY-->
 
-# Standard Library Cheatsheet
-
 Last updated: Thu, 16 Jan 2020 21:36:35 GMT
 
 
