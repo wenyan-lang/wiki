@@ -19,7 +19,7 @@ npm i
 Don't worry about the code style as long as you install the dev dependencies. Git hooks will format and fix them for you on committing.
 
 ## Ways to contribute
-- [Share Your Wenyan Scripts](#share-your-wenyan-scripts)
+- [Publish Your Wenyan Scripts](#share-your-wenyan-scripts)
 - [Share Your Works Related to Wenyan](#share-your-works-related-to-wenyan)
 - [Contribute to Code](#contribute-to-code)
 - [Contribute to Documentation](#contribute-to-documentation)
