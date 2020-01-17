@@ -19,7 +19,7 @@
 
 ### Packages Registry
 - [[Packages Manager]]
-- [[Avaliable Packages]]
+- [[Available Packages]]
 - [[Publish Your Own Packages]]
 
 ### Progress Tracking
