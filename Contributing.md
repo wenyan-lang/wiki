@@ -2,13 +2,9 @@ Thanks for being interested in contributing to this project! Here are some steps
 
 ## Project Setup
 
-1. Fork this repo
+1. Fork and clone the repo to your local machine
 
-2. Clone the repo to your local machine
-
-3. Create a branch, for example `feature/very-cool-macro`
-
-4. Install the dependencies
+2. Install the dependencies
 
 ```
 npm i
