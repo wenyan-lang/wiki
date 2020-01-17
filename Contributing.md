@@ -20,7 +20,8 @@ To share your scripts, you can:
 
 ### Share Your Works Related to Wenyan
 
-> WIP
+Made a tool/work for wenyan? Cool!
+Open an issue and share your work. We will add it to our wiki pages.
 
 ### Contribute to Code
 
