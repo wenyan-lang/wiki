@@ -1,6 +1,6 @@
 <!-- GENERATED FILE, DO NOT MODIFY-->
 
-Last updated: Fri, 17 Jan 2020 18:21:26 GMT
+Last updated: Fri, 17 Jan 2020 18:42:31 GMT
 
 
 ## Usage
@@ -9,15 +9,25 @@ Last updated: Fri, 17 Jan 2020 18:21:26 GMT
 吾嘗觀「「算經」」之書。方悟「正弦」「餘弦」「圓周率」之義。
 ```
 
+## Table of Contents
+- [列經 - Array](#%E5%88%97%E7%B6%93---array)
+- [易經 - Random](#%E6%98%93%E7%B6%93---random)
+- [曆法 - Calendar](#%E6%9B%86%E6%B3%95---calendar)
+- [算經 - Math](#%E7%AE%97%E7%B6%93---math)
+- [籌經 - Collection Operations](#%E7%B1%8C%E7%B6%93---collection-operations)
+- [位經 - Bit Manipulation](#%E4%BD%8D%E7%B6%93---bit-manipulation)
+- [格物 - Object](#%E6%A0%BC%E7%89%A9---object)
+- [畫譜 - Canvas](#%E7%95%AB%E8%AD%9C---canvas)
+
 ## [列經 - Array](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy)
 
 | Wenyan | Javascript Equivalent |
 |---|---|
-| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L10) | `Array.forEach` |
-| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L18) | `Array.filter` |
-| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L48) | `Array.sort` |
-| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L74) | `Array.reverse` |
-| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L84) | `Array.slice` |
+| [`遍施`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L10) | `Array.forEach` |
+| [`篩剔`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L18) | `Array.filter` |
+| [`排序`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L48) | `Array.sort` |
+| [`倒序`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L74) | `Array.reverse` |
+| [`擷取`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L84) | `Array.slice` |
 
 ## [易經 - Random](https://github.com/wenyan-lang/wenyan/tree/master/lib/易經.wy)
 
@@ -121,11 +131,6 @@ Last updated: Fri, 17 Jan 2020 18:21:26 GMT
 |---|---|
 
 ## [畫譜 - Canvas](https://github.com/wenyan-lang/wenyan/tree/master/lib/js/畫譜.wy)
-
-| Wenyan | Javascript Equivalent |
-|---|---|
-
-## [西曆法](https://github.com/wenyan-lang/wenyan/tree/master/lib/js/西曆法.wy)
 
 | Wenyan | Javascript Equivalent |
 |---|---|
