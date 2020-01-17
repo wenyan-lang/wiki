@@ -28,7 +28,8 @@ jobs:
       run: git merge upstream/master
     - name: Branch
       run: git branch master
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.PAT }}
+    - name: Push
+      run: |
+        git push "https://${GITHUB_ACTOR}:${secrets.PAT}@github.com/wenyan-lang/wiki.git" HEAD:master
+        git push "https://${GITHUB_ACTOR}:${secrets.PAT}@github.com/wenyan-lang/wenyan.wiki.git" HEAD:master
+     
