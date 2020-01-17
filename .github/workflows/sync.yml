@@ -17,8 +17,8 @@ jobs:
         token: ${{ secrets.PAT }}
     - name: Setup
       run: |           
-        git config --global user.name ${GITHUB_ACTOR}
-        git config --global user.email ${GITHUB_ACTOR}@wy-lang.org
+        git config --global user.name Wenyan Bot
+        git config --global user.email wiki-bot@wy-lang.org
         git remote add upstream https://github.com/wenyan-lang/wenyan.wiki.git
     - name: Fetch
       run: git fetch upstream
