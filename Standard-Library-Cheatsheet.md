@@ -1,6 +1,6 @@
 <!-- GENERATED FILE, DO NOT MODIFY-->
 
-Last updated: Thu, 16 Jan 2020 21:36:35 GMT
+Last updated: Fri, 17 Jan 2020 18:21:26 GMT
 
 
 ## Usage
@@ -9,10 +9,15 @@ Last updated: Thu, 16 Jan 2020 21:36:35 GMT
 吾嘗觀「「算經」」之書。方悟「正弦」「餘弦」「圓周率」之義。
 ```
 
-## [列經](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy)
+## [列經 - Array](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy)
 
 | Wenyan | Javascript Equivalent |
 |---|---|
+| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L10) | `Array.forEach` |
+| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L18) | `Array.filter` |
+| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L48) | `Array.sort` |
+| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L74) | `Array.reverse` |
+| [`取底除`](https://github.com/wenyan-lang/wenyan/tree/master/lib/列經.wy#L84) | `Array.slice` |
 
 ## [易經 - Random](https://github.com/wenyan-lang/wenyan/tree/master/lib/易經.wy)
 
@@ -61,11 +66,6 @@ Last updated: Thu, 16 Jan 2020 21:36:35 GMT
 | [`彼分何分`](https://github.com/wenyan-lang/wenyan/tree/master/lib/曆法.wy#L340) | `new Date(x * 1000).getMinutes() % 15` |
 | [`彼秒何秒`](https://github.com/wenyan-lang/wenyan/tree/master/lib/曆法.wy#L348) | `new Date(x * 1000).getSeconds()` |
 
-## [曆表](https://github.com/wenyan-lang/wenyan/tree/master/lib/曆表.wy)
-
-| Wenyan | Javascript Equivalent |
-|---|---|
-
 ## [算經 - Math](https://github.com/wenyan-lang/wenyan/tree/master/lib/算經.wy)
 
 | Wenyan | Javascript Equivalent |
@@ -111,6 +111,11 @@ Last updated: Thu, 16 Jan 2020 21:36:35 GMT
 | [`求和`](https://github.com/wenyan-lang/wenyan/tree/master/lib/籌經.wy#L1) | `reduce((a,b)=>a+b)` |
 
 ## [位經 - Bit Manipulation](https://github.com/wenyan-lang/wenyan/tree/master/lib/js/位經.wy)
+
+| Wenyan | Javascript Equivalent |
+|---|---|
+
+## [格物 - Object](https://github.com/wenyan-lang/wenyan/tree/master/lib/js/格物.wy)
 
 | Wenyan | Javascript Equivalent |
 |---|---|
