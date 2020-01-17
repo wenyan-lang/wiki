@@ -95,11 +95,3 @@ Arrays are 1-indexed.
 |`批曰。「「文氣淋灕。字句切實」」。` | `/*文氣淋灕。字句切實*/` |
 |`注曰。「「文言備矣」」。` | `/*文言備矣*/` |
 |`疏曰。「「居第一之位故稱初。以其陽爻故稱九」」。` | `/*居第一之位故稱初。以其陽爻故稱九*/` |
-
-### Advance Features
-
-- [Standard Library](./documentation/Standard-Lib.md)
-- [Try...Catch](./documentation/Try-Catch.md)
-- [Nested Function Calls](./documentation/Nested-Function-Calls.md)
-- [Importing](./documentation/Importing.md)
-- [Macros](./documentation/Macros.md)
