@@ -54,3 +54,7 @@ To share your scripts, you can:
 ### Contribute to Testing
 
 Check out the [Testing Section](/contribute/test).
+
+
+## Code of Conduct
+Our [Code of Conduct](https://github.com/wenyan-lang/wenyan/blob/master/CODE_OF_CONDUCT.md) is a guide to make it easier to enrich all of us and the technical communities in which we participate.
