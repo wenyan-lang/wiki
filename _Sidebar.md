@@ -2,8 +2,8 @@
 - [[Variables]]
 - [[Conditions]]
 - [[Loop]]
-- [[Import]]
 - [[Error Handling]]
+- [[Importing]]
 - [[Macros]]
 
 ### Resources
