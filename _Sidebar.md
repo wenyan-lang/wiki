@@ -2,6 +2,7 @@
 - [[Variables]]
 - [[Conditions]]
 - [[Loop]]
+- [[Function Call]]
 - [[Error Handling]]
 - [[Importing]]
 - [[Macros]]
@@ -30,3 +31,7 @@
 - [[Contributing]]
 - [[Testing]]
 - [[Technecial Details]]
+
+### API
+- [[Compiler API]]
+- [[Brower Runtime]]
