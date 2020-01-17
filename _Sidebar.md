@@ -33,5 +33,6 @@
 - [[Technecial Details]]
 
 ### API
+- [Language Spec](http://wy-lang.org/spec)
 - [[Compiler API]]
 - [[Brower Runtime]]
