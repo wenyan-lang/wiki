@@ -1,9 +1,9 @@
 Thanks for being interested in contributing to this project! Here are some steps and notes for you before you go.
 
-
 ## Ways to contribute
 - [Share Your Wenyan Scripts](#share-your-wenyan-scripts)
 - [Share Your Works Related to Wenyan](#share-your-works-related-to-wenyan)
+- [Financial Contribute](#financial-contribute)
 - [Contribute to Code](#contribute-to-code)
 - [Contribute to Documentation](#contribute-to-documentation)
 - [Contribute to Online IDE](#contribute-to-online-ide)
@@ -24,6 +24,10 @@ Made a tool/work for wenyan? Cool!
 
 Open an issue and share your work. We would love to add it to our wiki page!
 
+### Financial Contribute
+
+> WIP
+
 ### Contribute to Code
 
 You can check out [Development Setup](#development-setup) and [Project Structure](#project-structure) to get familiar with the project.
@@ -32,7 +36,7 @@ Before you make changes to code, it's always better to open an issue first and g
 
 ### Contribute to Documentation
 
-> WIP
+Please go to the [wiki repo](https://github.com/wenyan-lang/wiki), you can found the instructions there.
 
 ### Contribute to Online IDE
 

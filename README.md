@@ -6,6 +6,8 @@ Glad to hear you are instested in contributing the docs!
 
 If you are using Github, you can goto the file you want to edit and click the pencil icon on the right upper corner. Make some changes and submit a Change Proposal. When it gets merged, it will auto reflect to the wiki.
 
+![image](https://user-images.githubusercontent.com/11247099/72661447-218f8700-3a15-11ea-84e5-101f6b969f03.png)
+
 If you prefer the git way, you can always fork and make PRs as you will do for other repos.
 
 Thank you for your contribution!
