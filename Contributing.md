@@ -1,6 +1,7 @@
 Thanks for being interested in contributing to this project! Here are some steps and notes for you before you go.
 
-## Ways to contribute
+## Ways to Contribute
+
 - [Share Your Wenyan Scripts](#share-your-wenyan-scripts)
 - [Share Your Works Related to Wenyan](#share-your-works-related-to-wenyan)
 - [Financial Contribute](#financial-contribute)
@@ -81,7 +82,7 @@ $ npm test
 
 There are some other scripts available in the scripts section of the `package.json` file.
 
-**Please make sure to have this pass successfully before submitting a PR**. Although the same tests will be run against your PR on the CI server, it is better to have it working locally.
+**Please make sure to have tests pass successfully before submitting a PR**. Although the same tests will be run against your PR on the CI server, it is better to have it working locally.
 
 ## Project Structure
 
@@ -119,4 +120,5 @@ There are some other scripts available in the scripts section of the `package.js
 Don't worry about the code style as long as you install the dev dependencies. Git hooks will format and fix them for you on committing.
 
 ## Code of Conduct
+
 Our [Code of Conduct](https://github.com/wenyan-lang/wenyan/blob/master/CODE_OF_CONDUCT.md) is a guide to make it easier to enrich all of us and the technical communities in which we participate.
