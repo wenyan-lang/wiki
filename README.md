@@ -10,7 +10,11 @@ If you are using Github, you can goto the file you want to edit and click the pe
 
 If you prefer the git way, you can always fork and make PRs as you will do for other repos.
 
-Thank you for your contribution!
+Thank you!
+
+### Contribute more
+
+You can find more aspects to contribute in [this guide](https://github.com/wenyan-lang/wenyan/wiki/Contributing).
 
 
 ## Technical Details
