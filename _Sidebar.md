@@ -1,7 +1,7 @@
 ### Guide
 - [[Variables]]
 - [[Conditions]]
-- [[Loop]]
+- [[Loops]]
 - [[Function Call]]
 - [[Error Handling]]
 - [[Importing]]
