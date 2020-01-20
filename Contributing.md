@@ -26,7 +26,7 @@ Open an issue and share your work. We would love to add it to our wiki page!
 
 ### Financial Contribute
 
-> WIP
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/wenyan-lang/contribute)]
 
 ### Contribute to Code
 
@@ -120,3 +120,33 @@ Don't worry about the code style as long as you install the dev dependencies. Gi
 
 ## Code of Conduct
 Our [Code of Conduct](https://github.com/wenyan-lang/wenyan/blob/master/CODE_OF_CONDUCT.md) is a guide to make it easier to enrich all of us and the technical communities in which we participate.
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/wenyan-lang/wenyan/graphs/contributors"><img src="https://opencollective.com/wenyan-lang/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/wenyan-lang/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/wenyan-lang"><img src="https://opencollective.com/wenyan-lang/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/wenyan-lang/contribute)]
+
+<a href="https://opencollective.com/wenyan-lang/organization/0/website"><img src="https://opencollective.com/wenyan-lang/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/1/website"><img src="https://opencollective.com/wenyan-lang/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/2/website"><img src="https://opencollective.com/wenyan-lang/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/3/website"><img src="https://opencollective.com/wenyan-lang/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/4/website"><img src="https://opencollective.com/wenyan-lang/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/5/website"><img src="https://opencollective.com/wenyan-lang/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/6/website"><img src="https://opencollective.com/wenyan-lang/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/7/website"><img src="https://opencollective.com/wenyan-lang/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/8/website"><img src="https://opencollective.com/wenyan-lang/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/wenyan-lang/organization/9/website"><img src="https://opencollective.com/wenyan-lang/organization/9/avatar.svg"></a>
