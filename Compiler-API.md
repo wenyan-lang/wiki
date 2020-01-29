@@ -76,8 +76,8 @@ function compile(source: string, options?: CompilerOptions)
 
 | Fields | Default Value | Type | Note |
 | --- | --- | --- | --- |
-| lang | `"js"` | `"js" | "py" | "rb"` | Target language, can be  |
-| romanizeIdentifiers | `"none"` | `"none" | "pinyin" | "baxter" | "unicode"` | Romanize variable identifiers (e.g. `甲` to `JIA2`), can |
+| lang | `"js"` | `"js" \| "py" \| "rb"` | Target language, can be  |
+| romanizeIdentifiers | `"none"` | `"none" \| "pinyin" \| "baxter" \| "unicode"` | Romanize variable identifiers (e.g. `甲` to `JIA2`), can |
 | strict | `false` | `boolean` | Enables static type checking |
 | importPaths | [] | `string[]` | Specify the searching dirs for importing, the first match will returned. If you are using `cli`, it will automatically inject `process.cwd()` in to it. |
 | allowHttp | `false` | `boolean` | Allow importing from web resources |
