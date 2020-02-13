@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/wenyan-lang/wenyan/raw/master/screenshots/logo.png" width="45" />
+</p>
+
 ### Guide
 - [[Variables]]
 - [[Conditions]]
