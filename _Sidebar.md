@@ -13,6 +13,7 @@
 - [[Text Editors Support]]
 - [[Rendering]]
 - [[Related Tools]]
+- [[Dev Tools]]
 
 ### Cheatsheets
 - [Syntax](https://github.com/wenyan-lang/wenyan/wiki/Syntax-Cheatsheet)
@@ -30,7 +31,6 @@
 ### Contribute
 - [[Contributing]]
 - [[Testing]]
-- [[Technecial Details]]
 
 ### API
 - [Language Spec](http://wy-lang.org/spec)
