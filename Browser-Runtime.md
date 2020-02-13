@@ -63,3 +63,7 @@ There are some hacks examples you can do to access the DOM and browser APIs.
 施「((text)=>document.body.innerText=text)」於「「問天地好在。」」。
 </script>
 ```
+
+### Import [wyg Packages](https://github.com/wenyan-lang/wenyan/wiki/Packages-Manager)
+
+You can import packages from [wyg](https://github.com/wenyan-lang/wenyan/wiki/Packages-Manager) by following [this instruction](https://github.com/wenyan-lang/wenyan/wiki/Packages-Manager#direct-import).
