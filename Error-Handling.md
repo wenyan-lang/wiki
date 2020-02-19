@@ -62,6 +62,8 @@ e.name = "滅頂";
 throw e;
 ```
 
+Built-in error types are `文法`(SyntaxError), `逾界`(RangeError), `異類`(TypeError), and `虛指`(ReferenceError).
+
 If you do not need to catch the errors, you can do:
 
 ```wenyan
