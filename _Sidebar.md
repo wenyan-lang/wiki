@@ -1,6 +1,8 @@
 <p align="center">
 <br>
+<a href="https://github.com/wenyan-lang/wenyan/wiki">
 <img src="https://github.com/wenyan-lang/wenyan/raw/master/screenshots/logo.png" width="45" />
+</a>
 </p>
 
 ### Guide
