@@ -4,6 +4,7 @@
 </p>
 
 ### Guide
+- [**The Book《文言陰符》**](https://github.com/wenyan-lang/wenyan/wiki/Book)
 - [[Variables]]
 - [[Conditions]]
 - [[Loops]]
