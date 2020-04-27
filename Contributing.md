@@ -112,7 +112,7 @@ There are some other scripts available in the scripts section of the `package.js
 
   - **`runtime.ts`**: contains code for [[Browser Runtime]].
 
-  - **`cli.ts`**: contains code for [Command Line Interface](https://www.npmjs.com/package/@wenyanlang/cli).
+  - **`cli.ts`**: contains code for [Command Line Interface](https://www.npmjs.com/package/@wenyan/cli).
 
 
 ## Code Style

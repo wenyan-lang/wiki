@@ -3,7 +3,7 @@
 ## Install 
 
 ```bash
-npm i -g @wenyanlang/wyg
+npm i -g @wenyan/wyg
 ```
 
 ## Usage

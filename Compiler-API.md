@@ -10,15 +10,15 @@ We provide a compiler runs both in Node.js and modern browsers.
 You can install the dependence by the following command.
 
 ```bash
-npm install @wenyanlang/core
+npm install @wenyan/core
 ```
 
 ```js
-const Wenyan = require('@wenyanlang/core')
+const Wenyan = require('@wenyan/core')
 // or
-const { compile } = require('@wenyanlang/core')
+const { compile } = require('@wenyan/core')
 // or
-import { compile } from '@wenyanlang/core'
+import { compile } from '@wenyan/core'
 ```
 
 ### Browsers
@@ -26,7 +26,7 @@ import { compile } from '@wenyanlang/core'
 You can add the following line to the head of your html body.
 
 ```html
-<script src='https://unpkg.com/@wenyanlang/core/index.min.js'></script>
+<script src='https://unpkg.com/@wenyan/core/index.min.js'></script>
 ```
 
 ```html

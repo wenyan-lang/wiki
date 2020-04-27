@@ -7,7 +7,7 @@ You can now run wenyan-lang as normal Javscript scripts right in your html.
 Add the following script in the `<head>` of your html file.
 
 ```html
-<script src='https://unpkg.com/@wenyanlang/runtime'></script>
+<script src='https://unpkg.com/@wenyan/runtime'></script>
 ```
 
 That's all, you are good to go!
