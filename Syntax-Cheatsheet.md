@@ -1,4 +1,6 @@
-You can find the Language Specification [here](https://wy-lang.org/spec) (WIP). To get started, you can also check the cheatsheet below, or look into `src/parser.js` to learn more. Be sure to check out the examples from the online IDE too!
+You can find the Language Specification [here](https://wy-lang.org/spec) (WIP). To get started, you can also check the cheatsheet below. Be sure to check out the examples from the Online IDE too!
+
+Check out also: [Syntax Cheatsheet with Pinyin and English explanations](https://github.com/alainsaas/wenyan/blob/master/wenyan-lang%20beginner%20cheatsheet.pdf) by [alainsaas](https://github.com/alainsaas)
 
 ### Variables
 

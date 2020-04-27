@@ -1,5 +1,3 @@
-# Testing
-
 This project uses [Jest](https://jestjs.io/) for unit and snapshot testing.
 
 You can run all the tests by
